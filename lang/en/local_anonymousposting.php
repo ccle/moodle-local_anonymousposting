@@ -45,5 +45,7 @@ $string['userfirstname'] = 'Anonymous';
 $string['userlastname'] = 'User';
 $string['youcannouseloginas'] = 'You can\'t use this function when you are login as other user';
 $string['relogin'] = 'Log in with my actual user';
+$string['anonstudentrole'] = 'Anonymous student';
+$string['anonstudentroledesc'] = 'Role created by "Anonymous posting in forums" plugin.';
 
 $string[''] = '';
